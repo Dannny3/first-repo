@@ -1,4 +1,3 @@
-// This is the latest
 /**
  * @author desparza@aggies.ncat.edu
  * class creating GoodBye163
